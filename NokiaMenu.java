@@ -42,8 +42,8 @@ public class NokiaMenu {
                 System.out.println("\nPHONE BOOK");
                 System.out.println("1. Search");
                 System.out.println("2. Add Entry");
-                System.out.println("3. Erase");
-                System.out.println("4. Back");
+                System.out.println("3. Delete");
+                System.out.println("4. Exit");
 
                 System.out.print("Select an option: ");
                 option = input.nextLine();
